@@ -1,0 +1,72 @@
+{
+  "products": [{
+      "id": 1,
+      "name": "Rugtas",
+      "price": 139.95
+    },
+    {
+      "id": 2,
+      "name": "Handtas",
+      "price": 89.99
+    },
+    {
+      "id": 3,
+      "name": "Reistas",
+      "price": 49.45
+    }
+  ],
+  "colours": [{
+      "id": 1,
+      "name": "zwart",
+      "price_add": 0
+    },
+    {
+      "id": 2,
+      "name": "blauw",
+      "price_add": 0
+    },
+    {
+      "id": 3,
+      "name": "groen",
+      "price_add": 2
+    },
+    {
+      "id": 4,
+      "name": "rood",
+      "price_add": 3
+    }
+  ],
+  "symbols": [{
+      "id": 1,
+      "name": "1"
+    },
+    {
+      "id": 2,
+      "name": "2"
+    },
+    {
+      "id": 3,
+      "name": "3"
+    },
+    {
+      "id": 4,
+      "name": "4"
+    },
+    {
+      "id": 5,
+      "name": "5"
+    },
+    {
+      "id": 6,
+      "name": "6"
+    },
+    {
+      "id": 7,
+      "name": "7"
+    },
+    {
+      "id": 8,
+      "name": "8"
+    }
+  ]
+}
